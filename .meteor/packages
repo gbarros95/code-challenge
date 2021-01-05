@@ -11,3 +11,5 @@ shell-server
 
 static-html
 react-meteor-data
+autopublish
+meteorhacks:aggregate
